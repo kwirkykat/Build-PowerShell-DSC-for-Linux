@@ -8,5 +8,5 @@
         branch = master
 [submodule "dsc"]
         path = dsc
-        url = git@github.com:Microsoft/PowerShell-DSC-for-Linux.git
+        url = git@github.com:kwirkykat/PowerShell-DSC-for-Linux.git
         branch = master
